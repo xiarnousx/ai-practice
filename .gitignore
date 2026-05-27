@@ -70,3 +70,8 @@ node_modules/
 **/.coverage
 **/htmlcov/
 
+# uv
+**/.venv/
+**/.python-version
+**/uv.lock
+**/.uv/
