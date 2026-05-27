@@ -1,0 +1,23 @@
+# requirements.txt
+
+# The official Google AI Python SDK for the Gemini API
+google-generativeai
+
+# For managing environment variables (e.g., storing your API key in a .env file)
+# This is a best practice for keeping secrets out of your code.
+python-dotenv
+
+# For handling image inputs for multimodal models (like Gemini 1.5 Pro Vision)
+Pillow
+
+# Additional libraries that might be useful depending on your application
+numpy
+
+# For working with OpenAI models as well
+openai
+
+# For vector databases, if you're using embeddings
+faiss-cpu
+
+# import requests library
+requests
