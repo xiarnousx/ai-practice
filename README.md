@@ -23,6 +23,7 @@ ai-practice/
 │   ├── chapter-4-tool-use/
 │   ├── pyproject.toml
 │   └── uv.lock
+├── claude-code-multi-model/ # multi-model AI help desk assistant from the "Claude Code: Designing Multi-Model AI Systems" LinkedIn Learning course
 ├── copilot/
 │   ├── client/              # React frontend
 │   ├── middleware/
